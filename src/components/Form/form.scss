@@ -1,0 +1,22 @@
+.input {
+  width: 100%;
+  border: none;
+  padding: 0.5em;
+  font-size: 1.5em;
+  background-color: white;
+  color: rgb(41, 41, 41);
+  border-radius: 10px;
+}
+
+.form {
+  margin: 1.5em;
+  text-align: center;
+  border: none;
+  
+} ::placeholder {
+  color: rgb(221, 221, 221);
+}
+
+.emptyInput {
+  border: 1pt dotted red;
+}
